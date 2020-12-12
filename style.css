@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+*{
+	box-sizing: border-box;
+}
+body {
+	background: #95fe2726;
+	margin:20;
+	font-family: 'Langar';
+}
+.tartalom {
+	max-width:1000px;
+	width:100%;
+	background:bisque;
+	margin: 10px auto;
+	padding:5px;
+	border: 5px solid blue;
+	
+}
+
